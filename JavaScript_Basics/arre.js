@@ -1,0 +1,12 @@
+var arr = [1, 2, 3, 4, 5];
+console.log(arr);
+arr.push(6);
+console.log(arr);
+arr.pop(6);
+console.log(arr);
+arr.unshift(0);
+console.log(arr);
+arr.shift(0);
+console.log(arr);
+arr.splice(2, 2);
+console.log(arr);
